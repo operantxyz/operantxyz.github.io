@@ -7,4 +7,6 @@ title: Introducing Operant
 
 I will write posts regularly on various topics in psychology and behavior analysis, but I welcome others to contribute as well.
 
-Contact me at <operantxyz@gmail.com> if you're interested in publishing on Operant.
+Contact <operantxyz@gmail.com> if you're interested in publishing on Operant.
+
+Follow [@operant](https://twitter.com/operantxyz) on Twitter!

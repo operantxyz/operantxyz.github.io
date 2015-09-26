@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Operant
 tagline:          'BA for Everyone'
-description:      'Behavior Analysis for everyone.'
+description:      'Behavior analysis for everyone.'
 url:              http://operant.xyz
 baseurl:          /
 
