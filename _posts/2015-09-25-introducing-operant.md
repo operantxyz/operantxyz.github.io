@@ -9,4 +9,4 @@ I will write posts regularly on various topics in psychology and behavior analys
 
 Contact <operantxyz@gmail.com> if you're interested in publishing on Operant.
 
-Follow [@operant](https://twitter.com/operantxyz) on Twitter!
+Follow [@Operant](https://twitter.com/operantxyz) on Twitter!
